@@ -606,7 +606,7 @@ Have whose a two night earth she set you creeping replenish place whales move Fo
 <div class="footer_top flex-column">
 <div class="footer_logo">
 <a href="#">
-<h1 >Fadi Debow</h1>
+<h1 >  Fadi Debow </h1>
 </a>
 <div class="d-lg-block d-none">
 <nav class="navbar navbar-expand-lg navbar-light justify-content-center">
