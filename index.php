@@ -89,7 +89,7 @@
 </div>
 <div class="col-lg-2 col-md-3">
 <div class="statistics_item">
-<h3><span class="counter">80</span>k+</h3>
+<h3><span class="counter">80</span>+</h3>
 <p>Projects</p>
 </div>
 </div>
