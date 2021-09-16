@@ -109,7 +109,7 @@
 <div class="row justify-content-start align-items-center">
 <div class="col-lg-5">
 <div class="">
-<img class="" src="img/myimage.png" style="height: 500px;margin: 0px auto;" alt="">
+<img class="" src="img/myimage.png" style="height: 450px;margin: 0px auto;border-radius: 50%;border:1px solid #eee;box-shadow: 0px 0px 4px 1px #B32CB2" alt="">
 </div>
 </div>
 <div class="offset-lg-1 col-lg-5">
