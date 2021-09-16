@@ -117,7 +117,7 @@
 <p class="top_text">About me <span></span></p>
 <h2>
 Full-Stack | Mobile <br>
-Devekoper
+Developer
 </h2>
 <p>
 Expert in programming websites with various technologies and work environments such as Laravel, ASP.NET and VueJS, in addition to programming mobile applications using android native or flutter. I also have great experience in the field of creating desktop applications with databases, in addition to programming games using Unity
