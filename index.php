@@ -613,8 +613,8 @@ Have whose a two night earth she set you creeping replenish place whales move Fo
 <div class="collapse navbar-collapse offset">
 <ul class="nav navbar-nav menu_nav mx-auto">
 <li class="nav-item"><a class="nav-link text-white" href="index.html">Home</a></li>
-<li class="nav-item"><a class="nav-link text-white" href="about.html">About</a></li>
-<li class="nav-item"><a class="nav-link text-white" href="projects.html">Projects</a></li>
+<li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+<li class="nav-item"><a class="nav-link text-white" href="#">Projects</a></li>
 
 <li class="nav-item"><a class="nav-link text-white" href="index.php#skills">SKills </a></li>
 </ul>
