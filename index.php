@@ -29,11 +29,11 @@
 <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 <ul class="nav navbar-nav menu_nav">
 <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
-<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-<li class="nav-item"><a class="nav-link" href="portfolio.html">Projects</a></li>
+<li class="nav-item"><a class="nav-link" href="#">About</a></li>
+<li class="nav-item"><a class="nav-link" href="#">Projects</a></li>
 
 
-<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
 </ul>
 </div>
 </div>
